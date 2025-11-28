@@ -1,4 +1,4 @@
-Expense Tracker : Built using HTML , CSS and JS.
+**Expense Tracker : Built using HTML , CSS and JS.**
 
 A Expense Tracking Dashboard built using HTML, CSS and JavaScript.
 This project helps users manage daily finances through clean visual insights, data summaries, and a simple interface.
